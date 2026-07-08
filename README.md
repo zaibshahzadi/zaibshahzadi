@@ -50,7 +50,7 @@ I am passionate about **Machine Learning, Data Science, Python, and Web Developm
 | Tools | Git, GitHub, VS Code, Jupyter Notebook, Canva, Microsoft Office |
 
 ---
-## 💻 Programming Languages
+##  Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -61,7 +61,7 @@ I am passionate about **Machine Learning, Data Science, Python, and Web Developm
 
 ---
 
-## 🌐 Web Development
+##  Web Development
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -72,7 +72,7 @@ I am passionate about **Machine Learning, Data Science, Python, and Web Developm
 
 ---
 
-## 🤖 Machine Learning & Data Science
+##  Machine Learning & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -83,7 +83,7 @@ I am passionate about **Machine Learning, Data Science, Python, and Web Developm
 
 ---
 
-## 🛠 Tools
+##  Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
