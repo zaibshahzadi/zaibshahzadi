@@ -150,5 +150,12 @@ https://www.linkedin.com/in/zaib-shahzadi-bba376290/
 zaibnaveed6@gmail.com
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zaibshahzadi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
  Thank you for visiting my profile!
