@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Zaib Shahzadi
 
-<!--
-**zaibshahzadi/zaibshahzadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 BS Computer Science Student | Machine Learning Engineer | Web Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Computer Science student who enjoys learning new technologies and building real-world projects. I am currently focusing on Machine Learning, Data Science, Python, and Web Development while continuously improving my problem-solving skills.
+
+---
+
+## 👩‍🎓 About Me
+
+- 🎓 BS Computer Science Student
+- 🌱 Currently learning Machine Learning and Data Science
+- 💻 Interested in AI, Web Development, and Python
+- 📍 Lahore, Pakistan
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/zaib-shahzadi-bba376290/
